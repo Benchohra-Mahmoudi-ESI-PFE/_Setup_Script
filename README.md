@@ -7,19 +7,19 @@
   The size is due to a lot of redundant packages, this can very much be optimized.
 
   ## 1) First, run the "setup_environment.sh" script with root privileges : 
-  		<sudo ./setup_environment.sh>
+  		<code> sudo ./setup_environment.sh </code>
 
 
   ## 2) To run the server app :
       * Change to app dir : 
-		<cd receiver_app>
+		<code> cd receiver_app </code>
       * Activate virtual env :
-	  	<source flask_app/bin/activate>
+	  	<code>source flask_app/bin/activate </code>
       * Run the app :
-		<python3 app.py>
+		<code> python3 app.py </code>
 
       * Or as a one-liner :	
-		<cd receiver_app && source flask_app/bin/activate && python3 app.py>
+		<code> cd receiver_app && source flask_app/bin/activate && python3 app.py </code>
 
 
   3) To test :
