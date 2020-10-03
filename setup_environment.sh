@@ -57,7 +57,8 @@ conda deactivate
 git clone  https://github.com/Benchohra-Mahmoudi-ESI-PFE/receiver_app.git
 git clone  https://github.com/Benchohra-Mahmoudi-ESI-PFE/face_recognition.git
 git clone  https://github.com/Benchohra-Mahmoudi-ESI-PFE/speaker_recognition.git
-mv receiver_app/config ../
+mv receiver_app/config_ ./
+mv config_ config
 
 # Creating miniconda environements 
 cd face_recognition
