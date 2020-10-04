@@ -11,7 +11,9 @@
 		
 		
 		
-## First, run the "setup_environment.sh" script with root privileges (change [project_path] to the desired project path) : 
+## First, run the "setup_environment.sh" script with root privileges :
+(change [project_path] to the desired project path)
+
 		sudo ./setup_environment.sh [project_path]
 
 
