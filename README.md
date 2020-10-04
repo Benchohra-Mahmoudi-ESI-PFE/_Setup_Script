@@ -27,7 +27,7 @@ Change **[project_path]** to the desired project path.
 		python3 app.py
 
 ##### Or as a one-liner :	
-	cd receiver_app && source flask_app/bin/activate && python3 app.py
+	    cd [project_path]/receiver_app && source flask_app/bin/activate && python3 app.py
 
 
 
