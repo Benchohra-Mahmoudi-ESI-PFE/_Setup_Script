@@ -2,7 +2,7 @@
 
   Start by downloading the script file (setup_environment.sh)
   
-  The script runs heavy downloads, it's better to have a reliable and fast internet (approximate download size: 10G). The size is due to a lot of redundant packages, this can very much be optimized.
+  The script runs heavy downloads, it's better to have a reliable and fast internet connection (approximate download size: 10G). The size is due to a lot of redundant packages, this can very much be optimized.
 
 
 ## First, run the "setup_environment.sh" script with root privileges : 
