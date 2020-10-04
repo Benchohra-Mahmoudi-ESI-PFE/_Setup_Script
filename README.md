@@ -5,8 +5,14 @@
   The script runs heavy downloads, it's better to have a reliable and fast internet connection (approximate download size: 10G). The size is due to a lot of redundant packages, this can very much be optimized.
 
 
-## First, run the "setup_environment.sh" script with root privileges : 
-		sudo ./setup_environment.sh
+
+## First, make the script executable : 
+		sudo chmod +x ./setup_environment.sh
+		
+		
+		
+## First, run the "setup_environment.sh" script with root privileges (change [project_path] to the desired project path) : 
+		sudo ./setup_environment.sh [project_path]
 
 
 
