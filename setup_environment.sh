@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
+# - By BENCHOHRA Mohamed Amine
 # - This script takes one argument, the desired path of the project. 
 #   If the path doesn't exist, it will be created with the full hierarchy 
-
 
 # Checking project path
 if [ $# -eq 0 ]; then
