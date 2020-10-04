@@ -20,7 +20,7 @@ Change **[project_path]** to the desired project path.
 
 ## To run the server app :
 ##### Change to app dir : 
-		cd receiver_app
+		cd [project_path]/receiver_app
 ##### Activate virtual env :
 		source flask_app/bin/activate
 ##### Run the app :
