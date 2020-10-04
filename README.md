@@ -32,5 +32,5 @@ Change **[project_path]** to the desired project path.
 
 
 ## To test :
-Download and install the .apk file (min : Androind 5.0) from :  
+Download and install the .apk file (minimum : Androind 5.0) from :  
 https://drive.google.com/drive/folders/1KuuipegTPrFtlFBROpWfDYh82XAW83X8
