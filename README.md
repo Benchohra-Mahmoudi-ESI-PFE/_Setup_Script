@@ -12,7 +12,7 @@
 		
 		
 ## Second, run the "setup_environment.sh" script with root privileges :
-Change **[project_path]** to the desired project path.
+Change **[project_path]** to the intended project path.
 
 		sudo ./setup_environment.sh [project_path]
 
@@ -26,8 +26,8 @@ Change **[project_path]** to the desired project path.
 ##### Run the app :
 		python3 app.py
 
-##### Or as a one-liner :	
-	    cd [project_path]/receiver_app && source flask_app/bin/activate && python3 app.py
+##### Or run all as a one-liner :	
+	    cd **[project_path]**/receiver_app && source flask_app/bin/activate && python3 app.py
 
 
 
